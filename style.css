@@ -1,1 +1,5 @@
-
+body {
+    background-color: rgb(173, 217, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-shadow: 10px 10px 5px white;
+}
